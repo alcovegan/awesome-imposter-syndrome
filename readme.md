@@ -21,7 +21,7 @@
 - [Videos](#videos)
   - [Conference Talks](#conference-talks)
   - [Educational](#educational)
-  - [Just Videos](#personal)
+  - [Personal](#personal)
 
 ## Resources
 
