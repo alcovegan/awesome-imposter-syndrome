@@ -18,16 +18,17 @@
 - [Articles](#articles)
   - [General](#general)
   - [Personal Experience](#personal-experience)
-- [Videos](#scaffolding)
+- [Videos](#videos)
   - [Conference Talks](#conference-talks)
-  - [Just Videos](#just-videos)
+  - [Educational](#educational)
+  - [Just Videos](#personal)
 
 ## Resources
 
 ### General Resources
 * [Wikipedia](https://en.wikipedia.org/wiki/Impostor_syndrome) article
 
-### Comminity
+### Community
 * [Feeling like everyone is a better software developer than you and that someday you'll be found out? You're not alone. One of the professions most prone to "imposter syndrome" is software development.](https://www.reddit.com/r/programming/comments/4fn8go/feeling_like_everyone_is_a_better_software/) - very good (and big) thread on Reddit about article that you can find below (Shut Up, Imposter Syndrome: I Can Too Program). Personal expiriences are gold!
 
 ## Articles
