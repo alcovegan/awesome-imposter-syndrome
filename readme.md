@@ -35,6 +35,8 @@
 
 ### General
 * [Shut Up, Imposter Syndrome: I Can Too Program](https://www.laserfiche.com/simplicity/shut-up-imposter-syndrome-i-can-too-program/)
+* [Programmer Imposter Syndrome: 6 Ways to Get Over Yours](https://www.codingdojo.com/blog/programmer-imposter-syndrome/) - six really good advices about overcoming your imposter syndrome by CodingDojo.
+* [What is Impostor Syndrome? 6 Ways for Designers and Developers to Beat it](https://www.shopify.com/partners/blog/what-is-impostor-syndrome) - and another piece on imposter syndrom and six ways how to beat it from Shopify.
 
 ### Personal Experience
 * [I’m an Impostor](https://davidwalsh.name/impostor-syndrome) - confessions of David Walsh on theme. ___There's one feeling, however, that I've not been able to conquer during my professional career:  Impostor Syndrome.___
